@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/view/Admin/UpdateDeleteAcount.jsp=UTF-8
+encoding//WebContent/view/Admin/tamthoi.jsp=UTF-8
+encoding//WebContent/view/Exam/trang\ xem\ toan\ bo\ de\ thi.jsp=UTF-8
+encoding//src/Controller/LoginController.java=UTF-8
+encoding//src/DAO/AccountDAO.java=UTF-8
+encoding//src/DAO/ManageExamDAO.java=UTF-8
+encoding//src/DAO/UploadUser.java=UTF-8
